@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm HEMA SURYA B
 
-<!--
-**hemasurya106/hemasurya106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Into **Data Science**, **AI**, **Web Dev** ,**Machine Learning** & anything cool with code!
 
-Here are some ideas to get you started:
+---
+🌱 I’m currently learning **Backend frameworks**, **Dart**, and **NLP**  
+👨‍💻 All of my projects are available [on my GitHub](https://github.com/hemasurya106)  
+📫 How to reach me: **hemasurya469@gmail.com**   
+⚡ Fun fact: I love **cricket 🏏**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect with Me:
+
+- GitHub: [rishwanth738](https://github.com/hemasurya106)
+- LinkedIn: [rishwanth-j][(https://www.linkedin.com/in/rishwanth-j)](https://www.linkedin.com/in/hema-surya-b-9310b228b/)
+
+---
+
+## 🧠 Languages & Frameworks by Domain:
+
+### 🌐 Frontend
+`React` • `Bootstrap` • `Tailwind CSS` • `HTML5` • `CSS` • `JavaScript`
+
+### 🛠 Backend
+`Flask` • `MySQL` • `PostgreSQL` • `Nodejs`
+
+### 🧠 AI / Data Science
+`TensorFlow` • `PyTorch` • `Scikit-learn` • `Pandas` • `OpenCV` • `MATLAB` •`Keras` • `Langchain` 
+
+### 🛠 Tools 
+`Git`  • `AWS` ` • `Figma`
+
+### 💻 Programming Languages
+`C` • `C++` • `Java` •`Python` 
+
+---
+## 📊 GitHub Stats
+
+![Hemasurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemasurya106&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemasurya106&layout=compact&theme=radical)
+
+
+---
+
