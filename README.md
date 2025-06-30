@@ -27,7 +27,7 @@ Into **Data Science**, **AI**, **Web Dev** ,**Machine Learning** & anything cool
 `TensorFlow` • `PyTorch` • `Scikit-learn` • `Pandas` • `OpenCV` • `MATLAB` •`Keras` • `Langchain` 
 
 ### 🛠 Tools 
-`Git`  • `AWS` ` • `Figma`
+`Git`  • `AWS` ` • `Figma `
 
 ### 💻 Programming Languages
 `C` • `C++` • `Java` •`Python` 
