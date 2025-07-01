@@ -8,8 +8,9 @@
 ## 🤖 About Me
 
 - 🔭 Currently building intelligent models in **Computer Vision** and **LLMs**
+- 📫 Reach me at **hemasurya469@gmail.com** 
 - 💬 Ask me about AI model deployment, YOLO object detection, LangChain workflows, modern frontend development, and backend development with Flask & Node.js
-- 📫 Reach me at **hemasurya469@gmail.com**
+
 -⚡ Fun fact: I can discuss LLMs and cricket strategies with equal passion ⚡🏏🧠
 
 ---
@@ -69,10 +70,17 @@
 <!-- Tools -->
 <p align="left">
   <b>🛠 Tools:</b><br>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  <a href="https://www.uipath.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/uipath.png" alt="uipath" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
 </p>
+
 
 <!-- Programming Languages -->
 <p align="left">
