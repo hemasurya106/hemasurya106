@@ -1,17 +1,27 @@
 <h1 align="center">Hi 👋, I'm Hema Surya B</h1>
-<h3 align="center">Exploring AI, Data, and the art of problem-solving through code 🧠💡</h3>
+<h3 align="center">Crafting Intelligent Systems with AI, Data Science, and Code 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemasurya106&label=Profile%20views&color=0e75b6&style=flat" alt="hemasurya106" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hemasurya106&label=Profile%20views&color=0e75b6&style=flat" alt="hemasurya106" />
+</p>
 
-- 📫 How to reach me **hemasurya469@gmail.com**
-- ⚡ Fun fact **I love cricket 🏏**
+## 🤖 About Me
+
+- 🔭 Currently building intelligent models in **Computer Vision** and **LLMs**
+- 💬 Ask me about AI model deployment, YOLO object detection, LangChain workflows, modern frontend development, and backend development with Flask & Node.js
+- 📫 Reach me at **hemasurya469@gmail.com**
+-⚡ Fun fact: I can discuss LLMs and cricket strategies with equal passion ⚡🏏🧠
 
 ---
+## 🌐 Connect With Me:
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/hemasurya106" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40"/></a>
-<a href="https://www.linkedin.com/in/hema-surya-b-9310b228b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hema-surya-b" height="30" width="40" /></a>
+<a href="https://github.com/hemasurya106" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40"/>
+</a>
+<a href="https://www.linkedin.com/in/hema-surya-b-9310b228b/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
+</a>
 </p>
 
 ---
@@ -75,12 +85,19 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemasurya106&show_icons=true&theme=radical" alt="Hemasurya's GitHub Stats" />
+
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hemasurya106&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemasurya106&layout=compact&theme=radical" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemasurya106&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
+---
+## ✨ “From raw data to real impact — one intelligent decision at a time.” ✨
+
