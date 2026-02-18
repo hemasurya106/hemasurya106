@@ -96,15 +96,6 @@
 
 
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemasurya106&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemasurya106&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 
 ---
 ## ✨ “From raw data to real impact — one intelligent decision at a time.” ✨
